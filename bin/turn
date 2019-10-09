@@ -4,5 +4,4 @@ require_relative "../lib/turn.rb"
 
 puts "Welcome to Tic Tac Toe!"
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-turn(board)
+turn()
